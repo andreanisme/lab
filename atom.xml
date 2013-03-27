@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://andreanisme.github.com/lab/atom.xml" rel="self"/>
+  <link href="http://andreanisme.github.com/lab/"/>
+  <updated>2013-03-27T23:30:44+07:00</updated>
+  <id>http://andreanisme.github.com/lab/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[hello]]></title>
+    <link href="http://andreanisme.github.com/lab/blog/2013/03/27/hello/"/>
+    <updated>2013-03-27T17:58:00+07:00</updated>
+    <id>http://andreanisme.github.com/lab/blog/2013/03/27/hello</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
